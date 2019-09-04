@@ -1,0 +1,8 @@
+/functions/mock/**
+/scripts
+/config
+/**/*.ejs
+/lib
+/es
+/node_modules
+/example

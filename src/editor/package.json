@@ -1,0 +1,27 @@
+{
+  "name": "@umi-block/editor",
+  "version": "0.0.1",
+  "description": "富文本编辑器",
+  "main": "src/index.js",
+  "authors": {
+    "name": "xiexingen",
+    "email": "1002275364@qq.com"
+  },
+  "repository": "https://github.com/umijs/umi-blocks/tree/master/src/editor/editor",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "braft-editor": "^2.3.7",
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.9.3",
+    "umi-plugin-block-dev": "^2.2.2",
+    "umi-types": "^0.3.17"
+  },
+  "peerDependencies": {
+    "@ant-design/pro-layout": "^4.5.14"
+  },
+  "license": "MIT"
+}
