@@ -13,3 +13,4 @@ lib
 package.json.orig
 .eslintcache
 yarn-error.log
+/.vscode
