@@ -1,5 +1,5 @@
 {
-  "name": "@umi-block/editor",
+  "name": "@wetrial-block/editor",
   "version": "0.0.1",
   "description": "富文本编辑器",
   "main": "src/index.js",
@@ -7,7 +7,7 @@
     "name": "xiexingen",
     "email": "1002275364@qq.com"
   },
-  "repository": "https://github.com/umijs/umi-blocks/tree/master/src/editor/editor",
+  "repository": "https://github.com/wetrial/wetrial-blocks/tree/master/editor",
   "scripts": {
     "dev": "umi dev"
   },
