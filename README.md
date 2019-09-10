@@ -7,7 +7,7 @@ Official collection of some high quality blocks.
 ```shell
 $ umi block add [A block name in list, or any github address of a umi block]
 example
-$ umi block add https://github.com/umijs/umi-blocks/tree/master/src/editor
+$ umi block add https://github.com/umijs/umi-blocks/tree/master/editor
 ```
 
 You can visit umi [doc](https://umijs.org/guide/block.html) for find out more info about umi block.
